@@ -1,0 +1,45 @@
+
+:root{
+
+    --white-color:white;
+
+}
+
+
+
+.my-description{
+
+    color: var(--white-color);
+    font-size: 100 px;
+    margin-top: 10px;
+    text-align: center;
+    
+
+}
+
+
+.btn1{
+    color: var(--white-color);
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(35, 34, 43);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px 20px 10px 100px;
+}
+
+.btn2{
+    color: var(--white-color);
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 81, 0);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px 20px 10px 100px;
+}
